@@ -1,0 +1,16 @@
+{
+  "name": "image-classification",
+  "version": "1.0.0",
+  "description": "A simple example on Image Classification in Node.js with TensorFlow.js",
+  "main": "classify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tejas Rathod",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/mobilenet": "^2.0.4",
+    "@tensorflow/tfjs": "^1.2.10",
+    "@tensorflow/tfjs-node": "^1.2.10"
+  }
+}
