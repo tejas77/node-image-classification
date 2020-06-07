@@ -43,6 +43,8 @@ Classification Results: [
 ]
 ```
 
+### Thank you
+- Give a star if you find this repository helpful.
 ## Author 
 
 * **Tejas Rathod** - [@tejas77](https://github.com/tejas77)
